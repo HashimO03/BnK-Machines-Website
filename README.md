@@ -1,9 +1,4 @@
-
-
-https://github.com/user-attachments/assets/b681f97d-5e90-4105-8d9d-b94637a97164
-
-
-
+<img width="1901" height="938" alt="image" src="https://github.com/user-attachments/assets/33cf29ac-9546-4e6b-993d-0444ee422863" />
 
 # BnK — Full Stack Web Application
 
