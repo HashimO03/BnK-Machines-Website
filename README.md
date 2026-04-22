@@ -1,3 +1,4 @@
+<img width="1904" height="946" alt="Recording 2026-04-22 105342" src="https://github.com/user-attachments/assets/da271e9d-b660-42ab-b79f-1af6d08f20e7" />
 # BnK — Full Stack Web Application
 
 > A full-stack web application built with Java Spring Boot, featuring user authentication,
